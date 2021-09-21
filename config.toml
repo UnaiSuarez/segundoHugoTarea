@@ -1,6 +1,6 @@
 baseURL = 'https://unaisuarez.github.io/segundoHugoTarea/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+languageCode = 'es'
+title = 'mi sitio hugo'
 theme = 'tale'
 
 
