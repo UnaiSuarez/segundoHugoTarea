@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Sep 2021 09:15:15 +0200</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Esto Es Hugo3</title>
+      <link>http://example.org/posts/esto-es-hugo3/</link>
+      <pubDate>Tue, 21 Sep 2021 09:15:15 +0200</pubDate>
+      
+      <guid>http://example.org/posts/esto-es-hugo3/</guid>
+      <description>Este es el tercer post</description>
+    </item>
+    
+    <item>
+      <title>Esto Es Hugo2</title>
+      <link>http://example.org/posts/esto-es-hugo2/</link>
+      <pubDate>Tue, 21 Sep 2021 09:15:11 +0200</pubDate>
+      
+      <guid>http://example.org/posts/esto-es-hugo2/</guid>
+      <description>Este es el segundo post</description>
+    </item>
+    
+    <item>
+      <title>Esto Es Hugo</title>
+      <link>http://example.org/posts/esto-es-hugo/</link>
+      <pubDate>Tue, 21 Sep 2021 09:15:07 +0200</pubDate>
+      
+      <guid>http://example.org/posts/esto-es-hugo/</guid>
+      <description>Este es el primer post</description>
+    </item>
+    
+  </channel>
+</rss>
