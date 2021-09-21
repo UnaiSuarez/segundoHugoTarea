@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
+    <link>https://unaisuarez.github.io/segundoHugoTarea/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Sep 2021 09:15:15 +0200</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Sep 2021 09:15:15 +0200</lastBuildDate><atom:link href="https://unaisuarez.github.io/segundoHugoTarea/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Esto Es Hugo3</title>
-      <link>http://example.org/posts/esto-es-hugo3/</link>
+      <link>https://unaisuarez.github.io/segundoHugoTarea/posts/esto-es-hugo3/</link>
       <pubDate>Tue, 21 Sep 2021 09:15:15 +0200</pubDate>
       
-      <guid>http://example.org/posts/esto-es-hugo3/</guid>
+      <guid>https://unaisuarez.github.io/segundoHugoTarea/posts/esto-es-hugo3/</guid>
       <description>Este es el tercer post</description>
     </item>
     
     <item>
       <title>Esto Es Hugo2</title>
-      <link>http://example.org/posts/esto-es-hugo2/</link>
+      <link>https://unaisuarez.github.io/segundoHugoTarea/posts/esto-es-hugo2/</link>
       <pubDate>Tue, 21 Sep 2021 09:15:11 +0200</pubDate>
       
-      <guid>http://example.org/posts/esto-es-hugo2/</guid>
+      <guid>https://unaisuarez.github.io/segundoHugoTarea/posts/esto-es-hugo2/</guid>
       <description>Este es el segundo post</description>
     </item>
     
     <item>
       <title>Esto Es Hugo</title>
-      <link>http://example.org/posts/esto-es-hugo/</link>
+      <link>https://unaisuarez.github.io/segundoHugoTarea/posts/esto-es-hugo/</link>
       <pubDate>Tue, 21 Sep 2021 09:15:07 +0200</pubDate>
       
-      <guid>http://example.org/posts/esto-es-hugo/</guid>
+      <guid>https://unaisuarez.github.io/segundoHugoTarea/posts/esto-es-hugo/</guid>
       <description>Este es el primer post</description>
     </item>
     
     <item>
       <title>Contacto3</title>
-      <link>http://example.org/contacto3/</link>
+      <link>https://unaisuarez.github.io/segundoHugoTarea/contacto3/</link>
       <pubDate>Tue, 21 Sep 2021 09:14:42 +0200</pubDate>
       
-      <guid>http://example.org/contacto3/</guid>
+      <guid>https://unaisuarez.github.io/segundoHugoTarea/contacto3/</guid>
       <description>esto es contacto 3</description>
     </item>
     
     <item>
       <title>Contacto2</title>
-      <link>http://example.org/contacto2/</link>
+      <link>https://unaisuarez.github.io/segundoHugoTarea/contacto2/</link>
       <pubDate>Tue, 21 Sep 2021 09:14:39 +0200</pubDate>
       
-      <guid>http://example.org/contacto2/</guid>
+      <guid>https://unaisuarez.github.io/segundoHugoTarea/contacto2/</guid>
       <description>esto es contacto 2</description>
     </item>
     
     <item>
       <title>Contacto</title>
-      <link>http://example.org/contacto/</link>
+      <link>https://unaisuarez.github.io/segundoHugoTarea/contacto/</link>
       <pubDate>Tue, 21 Sep 2021 09:14:27 +0200</pubDate>
       
-      <guid>http://example.org/contacto/</guid>
+      <guid>https://unaisuarez.github.io/segundoHugoTarea/contacto/</guid>
       <description>esto es contacto 1</description>
     </item>
     

@@ -2,32 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/posts/esto-es-hugo3/</loc>
+    <loc>https://unaisuarez.github.io/segundoHugoTarea/posts/esto-es-hugo3/</loc>
     <lastmod>2021-09-21T09:15:15+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://unaisuarez.github.io/segundoHugoTarea/</loc>
     <lastmod>2021-09-21T09:15:15+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://unaisuarez.github.io/segundoHugoTarea/posts/</loc>
     <lastmod>2021-09-21T09:15:15+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/esto-es-hugo2/</loc>
+    <loc>https://unaisuarez.github.io/segundoHugoTarea/posts/esto-es-hugo2/</loc>
     <lastmod>2021-09-21T09:15:11+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/esto-es-hugo/</loc>
+    <loc>https://unaisuarez.github.io/segundoHugoTarea/posts/esto-es-hugo/</loc>
     <lastmod>2021-09-21T09:15:07+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/contacto3/</loc>
+    <loc>https://unaisuarez.github.io/segundoHugoTarea/contacto3/</loc>
     <lastmod>2021-09-21T09:14:42+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/contacto2/</loc>
+    <loc>https://unaisuarez.github.io/segundoHugoTarea/contacto2/</loc>
     <lastmod>2021-09-21T09:14:39+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/contacto/</loc>
+    <loc>https://unaisuarez.github.io/segundoHugoTarea/contacto/</loc>
     <lastmod>2021-09-21T09:14:27+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://unaisuarez.github.io/segundoHugoTarea/categories/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://unaisuarez.github.io/segundoHugoTarea/tags/</loc>
   </url>
 </urlset>
